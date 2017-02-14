@@ -1,4 +1,4 @@
-//Jordan Stein 101390302
+//Jordan Stein
 // CSCI 3412 - FALL 2015
 // Algorithms - Dr. Williams
 // Problem Set 1 - Sorting Algorithms
